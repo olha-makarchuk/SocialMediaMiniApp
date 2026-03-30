@@ -1,4 +1,5 @@
 # SocialMediaMiniApp
+Міні-версію соціальної мережі (подібно до Twitter/Instagram) з повноцінним керуванням станом через Redux Toolkit. Додаток має включати автентифікацію, стрічку постів, профілі користувачів, коментарі, лайки та пошук.
 
 ---
 ### Скріншоти:
@@ -17,3 +18,21 @@
 <img width="300" alt="Opera Знімок_2026-03-16_164541_localhost" src="https://github.com/user-attachments/assets/f26bdcce-eb2c-4ace-8f1f-0803b4243448" />
 <img width="300" alt="Opera Знімок_2026-03-16_164049_localhost" src="https://github.com/user-attachments/assets/936fc22d-c1db-46da-8359-9145a998713b" />
 <img width="300" alt="Opera Знімок_2026-03-16_164146_localhost" src="https://github.com/user-attachments/assets/604dca7b-8699-4945-b1e3-beed67ba6b8b" />
+
+---
+
+## Запуск проєкту
+1. Клонувати репозиторій:
+```bash
+git clone https://github.com/olha-makarchuk/SocialMediaMiniApp.git
+```
+
+2. Встановити залежності:
+```bash
+npm install
+```
+
+3. Запустити локально:
+```bash
+npm ren dev
+```
